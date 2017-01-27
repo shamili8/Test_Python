@@ -1,0 +1,29 @@
+        [{
+            "DEPTID": "101",
+            "FIRSTNAME":"24",
+            "LASTNAME":"shamu",
+            "GENDER":"Female",
+            "CITY": "Mckinney"
+        },
+        {
+            "DEPTID": "102" ,
+            "FIRSTNAME":"Jim",
+            "LASTNAME":"Jatley",
+            "GENDER":"Male",
+            "CITY": "Mckinney"
+        },
+        {
+            "DEPTID":"103",
+            "FIRSTNAME":"lilly",
+            "LASTNAME":"lotus",
+            "GENDER":"female",
+            "CITY": "Dallas"
+        },
+        {
+            "DEPTID":"104",
+            "FIRSTNAME":"kim",
+            "LASTNAME":"jon",
+            "GENDER":"male",
+            "CITY": "florida"
+        }
+        ]
